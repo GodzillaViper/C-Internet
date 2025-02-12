@@ -1,0 +1,14 @@
+C:\Users\kamran.allahverdi\C#Internet\InternetC#\bin\Debug\net8.0\InternetC#.exe
+C:\Users\kamran.allahverdi\C#Internet\InternetC#\bin\Debug\net8.0\InternetC#.deps.json
+C:\Users\kamran.allahverdi\C#Internet\InternetC#\bin\Debug\net8.0\InternetC#.runtimeconfig.json
+C:\Users\kamran.allahverdi\C#Internet\InternetC#\bin\Debug\net8.0\InternetC#.dll
+C:\Users\kamran.allahverdi\C#Internet\InternetC#\bin\Debug\net8.0\InternetC#.pdb
+C:\Users\kamran.allahverdi\C#Internet\InternetC#\obj\Debug\net8.0\InternetC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran.allahverdi\C#Internet\InternetC#\obj\Debug\net8.0\InternetC#.AssemblyInfoInputs.cache
+C:\Users\kamran.allahverdi\C#Internet\InternetC#\obj\Debug\net8.0\InternetC#.AssemblyInfo.cs
+C:\Users\kamran.allahverdi\C#Internet\InternetC#\obj\Debug\net8.0\InternetC#.csproj.CoreCompileInputs.cache
+C:\Users\kamran.allahverdi\C#Internet\InternetC#\obj\Debug\net8.0\InternetC#.dll
+C:\Users\kamran.allahverdi\C#Internet\InternetC#\obj\Debug\net8.0\refint\InternetC#.dll
+C:\Users\kamran.allahverdi\C#Internet\InternetC#\obj\Debug\net8.0\InternetC#.pdb
+C:\Users\kamran.allahverdi\C#Internet\InternetC#\obj\Debug\net8.0\InternetC#.genruntimeconfig.cache
+C:\Users\kamran.allahverdi\C#Internet\InternetC#\obj\Debug\net8.0\ref\InternetC#.dll
